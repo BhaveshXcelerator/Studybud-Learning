@@ -149,5 +149,5 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'bhaveshala66@gmail.com'
-EMAIL_HOST_PASSWORD = 'eipwzyjcwgpnvbry'
+EMAIL_HOST_PASSWORD = 'eipwzyjcwgpnvbry'    
 DEFAULT_FROM_EMAIL = "Celery <bhaveshala66@gmail.com>"
